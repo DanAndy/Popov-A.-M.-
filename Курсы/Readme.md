@@ -9,3 +9,5 @@ https://www.udemy.com/course/bestpython/learn/lecture/14077378#overview
 
 
 ![image](https://user-images.githubusercontent.com/113089418/213179351-3e132623-6285-4b43-ab64-7bcd0ff14ef5.png)
+
+ндк https://docs.google.com/document/d/1sw-CpLCbH4Q-G8Zm0fga5vy5uh9yKLJI6GTPCPqjEYM/edit?usp=sharing
