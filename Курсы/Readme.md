@@ -8,3 +8,4 @@ https://live.skillbox.ru/playlists/code/python/
 https://www.udemy.com/course/bestpython/learn/lecture/14077378#overview
 
 
+![image](https://user-images.githubusercontent.com/113089418/213179351-3e132623-6285-4b43-ab64-7bcd0ff14ef5.png)
