@@ -7,4 +7,4 @@ https://live.skillbox.ru/playlists/code/python/
 
 https://www.udemy.com/course/bestpython/learn/lecture/14077378#overview
 
-https://docs.google.com/document/d/1crmaj_AfpnDxzq1FTWn5XriAlwwZsPujiVahxoW4sGk/edit?usp=drivesdk
+
