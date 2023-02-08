@@ -14,3 +14,4 @@ https://www.udemy.com/course/bestpython/learn/lecture/14077378#overview
 
 
 [Презентация 8 (2).pptx](https://github.com/DanAndy/Popov-A.-M.-21/files/10518056/8.2.pptx)
+
