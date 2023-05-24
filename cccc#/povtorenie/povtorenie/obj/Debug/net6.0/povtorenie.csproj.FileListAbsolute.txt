@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\povtorenie\povtorenie\bin\Debug\net6.0\povtorenie.exe
+C:\Users\user\source\repos\povtorenie\povtorenie\bin\Debug\net6.0\povtorenie.deps.json
+C:\Users\user\source\repos\povtorenie\povtorenie\bin\Debug\net6.0\povtorenie.runtimeconfig.json
+C:\Users\user\source\repos\povtorenie\povtorenie\bin\Debug\net6.0\povtorenie.dll
+C:\Users\user\source\repos\povtorenie\povtorenie\bin\Debug\net6.0\povtorenie.pdb
+C:\Users\user\source\repos\povtorenie\povtorenie\obj\Debug\net6.0\povtorenie.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\povtorenie\povtorenie\obj\Debug\net6.0\povtorenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\povtorenie\povtorenie\obj\Debug\net6.0\povtorenie.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\povtorenie\povtorenie\obj\Debug\net6.0\povtorenie.AssemblyInfo.cs
+C:\Users\user\source\repos\povtorenie\povtorenie\obj\Debug\net6.0\povtorenie.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\povtorenie\povtorenie\obj\Debug\net6.0\povtorenie.dll
+C:\Users\user\source\repos\povtorenie\povtorenie\obj\Debug\net6.0\refint\povtorenie.dll
+C:\Users\user\source\repos\povtorenie\povtorenie\obj\Debug\net6.0\povtorenie.pdb
+C:\Users\user\source\repos\povtorenie\povtorenie\obj\Debug\net6.0\povtorenie.genruntimeconfig.cache
+C:\Users\user\source\repos\povtorenie\povtorenie\obj\Debug\net6.0\ref\povtorenie.dll
